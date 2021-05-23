@@ -9,4 +9,4 @@ def mailing():
 
 @app.route('/search')
 def searching():
-    return('searching...')
+    return('searching now...')
